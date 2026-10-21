@@ -1,0 +1,14 @@
+{
+  "secondary.bin": {
+    "bytes": 22976,
+    "sha256": "0b894fec33888572c68a152c06469cfbb1a7a2ceb7178d0d1a4ff9ba9e923cce",
+    "source": "Nokia Care Suite/Flash Update/XG223_v11_usb2nd.fg",
+    "prepared_by": "analysis/current/rm902-loader-body-preparation/prepare.py"
+  },
+  "algorithm.bin": {
+    "bytes": 207440,
+    "sha256": "81fe1d883af60cb8effc8b01ff2ed234cea65726a9fe3c673f6b669e072ab45a",
+    "source": "Nokia Care Suite/Flash Update/XG223_v11_usbalg.fg",
+    "prepared_by": "analysis/current/rm902-loader-body-preparation/prepare.py"
+  }
+}
