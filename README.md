@@ -7,6 +7,18 @@ decodes the phone's NPC object to the terminal.
 It does not flash, erase, reset or unlock anything. The two vendor loaders run
 from RAM; only identity, HW_CONF setup replies and the NPC object are read.
 
+## How and why?
+
+The goal of the whole project is to dump entire firmware with all the data from
+a locked 2014 Nokia Asha 501. To do this, I utilize Reverse Engineer Anything
+skill against Nokia Care Suite and other unofficial phone flashing software.
+This entire code was created by AI agents and the only human written note is
+this paragraph. This script is just a first step in the journey to create a PoC
+that will read IMEI2 and other values from the phone using standard methods
+known before flashing. Some of the ground work was done by GPT-6.1-Sol and
+GPT-6-Astra. However, the most helpful here turned out to be DeepSeek 4.1 Flash
+1017.
+
 ## Install
 
     cd ~/Projects/Asha501/tools/base_info
