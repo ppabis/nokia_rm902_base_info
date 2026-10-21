@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--
+
+Third-party notice: `loaders/secondary.bin` and `loaders/algorithm.bin` are
+loader bodies extracted from Nokia Care Suite (Copyright © 2014 Microsoft
+Mobile Oy, all rights reserved) and are not covered by the MIT grant above.
+Care Suite is discontinued, no license for these files was ever published, so
+they are included as abandonware solely to read hardware we own (on the
+premise of right to repair).

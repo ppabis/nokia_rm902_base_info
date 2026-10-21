@@ -66,6 +66,7 @@ timestamped directory unless `--output` points at an existing one.
 `loaders/algorithm.bin` (207,440 bytes, SHA256 `81fe1d88…ab45a`) are the exact
 bodies prepared offline from the retained Care Suite `XG223_v11_usb2nd.fg` and
 `XG223_v11_usbalg.fg`. The tool verifies both hashes before opening the phone.
+See `loaders/README.md` for the licensing note.
 
 ## Troubleshooting
 
